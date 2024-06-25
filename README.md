@@ -8,6 +8,7 @@ I am currently pursuing a Master's degree in Data Science from Seoul National Un
 ## 💡 Projects
 - **Financial Question Answering**: Developed a model to process and answer questions based on financial documents using NLP techniques. [[link](https://github.com/yikyungkim/CBR-FinQA.git)] 
 - **Korean MRC Model**: Created a system to analyze policy documents and answer questions using advanced NLP and machine learning methods.
+- **NLP Project for Financial Analysts**: Developed a service to assist financial analysts by providing summarization, Q&A, and sentiment analysis from US stock market and news data collected past 24 hours. [[link](https://github.com/minwl/ARA)]
 - **Corporate Chatbot**: Developed a chatbot for corporate use that integrates with news and public data to provide relevant information and summaries. [[link](https://github.com/KPMG-IDEATHON-NARVIS/NARVIS.git)]
 
 ## 📃 Publications
