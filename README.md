@@ -21,6 +21,6 @@ I am currently pursuing a Master's degree in Data Science from Seoul National Un
 
 ## 📫 Contact Information
 - **Email**: k2y1513@snu.ac.kr
-- [LinkedIn](https://www.linkedin.com/in/yikyung-kim/)
+- [LinkedIn](https://www.linkedin.com/in/yikyung-kim-a90181117/)
 
 
