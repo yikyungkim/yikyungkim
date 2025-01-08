@@ -12,7 +12,7 @@ I am currently pursuing a Master's degree in Data Science from Seoul National Un
 - **Corporate Chatbot**: Developed a chatbot for corporate use that integrates with news and public data to provide relevant information and summaries. [[link](https://github.com/KPMG-IDEATHON-NARVIS/NARVIS.git)]
 
 ## 📃 Publications
-- *Case-Based Reasoning Approach for Solving Financial Question Answering*, Master's Thesis, Seoul National University. [[paper](https://arxiv.org/abs/2405.13044)]
+- *Case-Based Reasoning Approach for Solving Financial Question Answering*, Master's Thesis, Seoul National University.[[full-paper](https://drive.google.com/file/d/1WobC7m9rDHiHfmcCc9om0yYmG5X0c3qY/view?usp=sharing)] [[paper](https://arxiv.org/abs/2405.13044)] 
 
 ## 💻 Skills and Technologies
 - **Programming Languages**: Python, C, C++, R, MATLAB, SAS
